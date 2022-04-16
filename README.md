@@ -17,12 +17,12 @@ This algorithm works in following steps:
 4. Annotates the detected features
 
 Tools / Platform
-• Windows 10, Windows 7
-• Visual studio 2010
-• MATLAB version R2019b
+1. Windows 10, Windows 7
+2. Visual studio 2010
+3. MATLAB version R2019b
 
-.Project Type
-Application (Standalone .exe)
+Project Type
+1. Application (Standalone .exe)
 
 Hardware Requirements
 1. Processor – Dual Core
