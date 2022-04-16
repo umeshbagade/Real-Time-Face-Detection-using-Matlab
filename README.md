@@ -15,3 +15,23 @@ This algorithm works in following steps:
 2. Takes the image from the video 
 3. Detects features
 4. Annotates the detected features
+
+Tools / Platform
+• Windows 10, Windows 7
+• Visual studio 2010
+• MATLAB version R2019b
+
+.Project Type
+Application (Standalone .exe)
+
+Hardware Requirements
+• Processor – Dual Core
+• Solid State Drive – 80 GB (preferred)/HDD 80 GB
+• Memory – 4GB RAM
+
+Software Requirements
+Development tool :-
+MATLAB version R2019b – GUIDE
+Backend development tool :-
+MATLAB version R2019 – with computer CV toolbox, webcam
+package.
