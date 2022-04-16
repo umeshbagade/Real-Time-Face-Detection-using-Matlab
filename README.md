@@ -25,13 +25,13 @@ Tools / Platform
 Application (Standalone .exe)
 
 Hardware Requirements
-• Processor – Dual Core
-• Solid State Drive – 80 GB (preferred)/HDD 80 GB
-• Memory – 4GB RAM
+1. Processor – Dual Core
+2. Solid State Drive – 80 GB (preferred)/HDD 80 GB
+3. Memory – 4GB RAM
 
 Software Requirements
 Development tool :-
-MATLAB version R2019b – GUIDE
+1. MATLAB version R2019b – GUIDE
 Backend development tool :-
-MATLAB version R2019 – with computer CV toolbox, webcam
+1. MATLAB version R2019 – with computer CV toolbox, webcam
 package.
